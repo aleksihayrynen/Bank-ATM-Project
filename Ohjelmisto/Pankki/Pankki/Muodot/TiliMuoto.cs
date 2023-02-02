@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pankki.Models
+namespace Pankki.Muodot
 {
     internal class TiliMuoto
     {

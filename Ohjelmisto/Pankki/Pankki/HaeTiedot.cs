@@ -13,5 +13,5 @@ namespace Pankki
             Console.WriteLine("Luokka luotu -> HAETIEDOT");
         }
     }
-}
+
 }
