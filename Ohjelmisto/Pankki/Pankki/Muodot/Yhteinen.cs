@@ -17,5 +17,6 @@ namespace Pankki.Muodot
             this.kayttajat = new List<Kayttaja>();
         }
 
+
     }
 }

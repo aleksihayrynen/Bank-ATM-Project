@@ -1,0 +1,27 @@
+{
+  "tilit": [
+  ],
+  "kayttajat": [
+    {
+      "kayttaja": "1234",
+      "pin": "1234",
+      "etunimi": "janne",
+      "sukunimi": "niminen",
+      "luontiPaiva§": "2023-02-08T19:24:09.6289926+02:00"
+    },
+    {
+      "kayttaja": "1254",
+      "pin": "1534",
+      "etunimi": "jonne",
+      "sukunimi": "niminen",
+      "luontiPaiva": "2023-02-08T19:24:09.6375757+02:00"
+    },
+    {
+      "kayttaja": "Kokeilija",
+      "pin": "salasana",
+      "etunimi": "Aleksi",
+      "sukunimi": "Opiskelija",
+      "luontiPaiva": "2023-02-08T19:24:09.6375808+02:00"
+    }
+  ]
+}
