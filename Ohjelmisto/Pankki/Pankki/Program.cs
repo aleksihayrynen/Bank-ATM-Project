@@ -3,5 +3,5 @@ using Pankki;
 using Pankki.Muodot;
 
 
-db_pankki.tiedostoLuku();
+
 var a = new Pankki.Pankki();

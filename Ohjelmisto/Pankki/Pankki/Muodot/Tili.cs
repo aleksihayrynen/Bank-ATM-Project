@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Pankki.Muodot
 
 {
- internal class Tapahtuma
+    internal struct Tapahtuma
     {
         public DateTime tapahtumaAika { get; set; }
         public double summa { get; set; }
@@ -35,6 +35,7 @@ namespace Pankki.Muodot
             tiliOmistajakayttaja = omistaja;
             saldo = 0;
             tiliTunnus = FI_tiliTunnus;
+            siirtoHistoria = new List<Tapahtuma>();
         }
        
     }

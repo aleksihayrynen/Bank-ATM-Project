@@ -88,34 +88,33 @@ namespace Pankki
                 return null;
             }
         }
-        public static Boolean Siirto(string VastaanOttajakayttaja, string siirtajaKayttaja, double raha, string viesti="", Boolean vastaanOtto = true)
+        public static Boolean Siirto(string VastaanOttajakayttaja, string siirtajaKayttaja, double raha, string? viesti)
         {
 
-            try { 
-            if (Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == siirtajaKayttaja).saldo < raha)
-                return false;
+                if (Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == siirtajaKayttaja).saldo < raha)
+                {
+                    Console.WriteLine("rahaa ei riittänyt");
+                    return false;
+                }
 
-            Tapahtuma tapahtuma = new Tapahtuma();
+                Tapahtuma tapahtuma = new Tapahtuma();
 
-            tapahtuma.summa = raha;
-            tapahtuma.viesti = viesti;
-            tapahtuma.vastaanOttaja = siirtajaKayttaja;
-            tapahtuma.vastaanOtto = vastaanOtto;
-            tapahtuma.tapahtumaAika = DateTime.Now;
+                tapahtuma.summa = raha;
+                tapahtuma.viesti = viesti;
+                tapahtuma.vastaanOttaja = siirtajaKayttaja;
+                tapahtuma.vastaanOtto = true;
+                tapahtuma.tapahtumaAika = DateTime.Now;
 
-            // Magic code .....
-            Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == VastaanOttajakayttaja).siirtoHistoria.Add(tapahtuma);
-            Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == VastaanOttajakayttaja).saldo += raha;
-            Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == siirtajaKayttaja).saldo -= raha;
+                // Magic code .....
+                
+                Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == VastaanOttajakayttaja).saldo += raha;
+                Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == siirtajaKayttaja).saldo -= raha;
+                Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == VastaanOttajakayttaja).siirtoHistoria.Add(tapahtuma); 
+                Console.WriteLine("oli täällä");
+                Tallenna();
 
-            Tallenna();
-
-            return true;
-            }
-            catch
-            {
-                return false;
-            }
+                return true;
+        
         }
 
 
