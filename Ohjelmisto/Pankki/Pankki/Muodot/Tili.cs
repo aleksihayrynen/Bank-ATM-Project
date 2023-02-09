@@ -9,11 +9,11 @@ namespace Pankki.Muodot
 {
    struct Tapahtuma
     {
-        DateTime tapahtumaAika;
-        double summa;
-        string viesti;
-        Boolean vastaanOtto;
-        string vastaanOttaja;
+        public DateTime tapahtumaAika { get; set; }
+        public double summa { get; set; }
+        public string viesti { get; set; }
+        public Boolean vastaanOtto { get; set; }
+        public string vastaanOttaja { get; set; }
     }
 
     internal class Tili
@@ -28,6 +28,7 @@ namespace Pankki.Muodot
         {
             tiliOmistajakayttaja = omistaja;
             siirtoHistoria = new List<Tapahtuma>();
+            saldo = 0;
         }
        
     }

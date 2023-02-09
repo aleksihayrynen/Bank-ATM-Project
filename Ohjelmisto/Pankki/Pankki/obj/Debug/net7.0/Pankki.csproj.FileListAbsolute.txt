@@ -28,3 +28,18 @@ C:\Users\aleks\Documents\GitHub\OhjlemistoKehitys\Ohjelmistokehitys-Projekti\Ohj
 C:\Users\aleks\Documents\GitHub\OhjlemistoKehitys\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\Pankki.pdb
 C:\Users\aleks\Documents\GitHub\OhjlemistoKehitys\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\Pankki.genruntimeconfig.cache
 C:\Users\aleks\Documents\GitHub\OhjlemistoKehitys\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\ref\Pankki.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\Pankki.csproj.AssemblyReference.cache
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\Pankki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\Pankki.AssemblyInfoInputs.cache
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\Pankki.AssemblyInfo.cs
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\Pankki.csproj.CoreCompileInputs.cache
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\Pankki.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\refint\Pankki.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\Pankki.pdb
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Debug\net7.0\Pankki.exe
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Debug\net7.0\Pankki.deps.json
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Debug\net7.0\Pankki.runtimeconfig.json
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Debug\net7.0\Pankki.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Debug\net7.0\Pankki.pdb
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\Pankki.genruntimeconfig.cache
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\ref\Pankki.dll

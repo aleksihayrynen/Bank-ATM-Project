@@ -5,10 +5,16 @@ using Pankki.Muodot;
 // ALKU
 // Jatko koodi Esimerkki.cs tiedostosta
 Console.WriteLine("Päätiedosto");
-Esimerkki.LisaaKayttaja("1234", "1234", "janne", "niminen");
-Esimerkki.LisaaKayttaja("1254", "1534", "jonne", "niminen");
-Esimerkki.LisaaKayttaja("Kokeilija", "salasana", "Aleksi", "Opiskelija");
-var henkilo = Esimerkki.HaeKayttaja("Kokeilija");
+db_pankki.LisaaKayttaja("1234", "1234", "janne", "niminen");
+db_pankki.LisaaKayttaja("1254", "1534", "jonne", "niminen");
+db_pankki.LisaaKayttaja("Kokeilija", "salasana", "Aleksi", "Opiskelija");
+var henkilo = db_pankki.HaeKayttaja("Kokeilija");
+
+
+db_pankki.Siirto("1234", "Kokeilija");
+
+
+
 Console.WriteLine(henkilo.etunimi +" toimii");
-Console.WriteLine(Esimerkki.KaikkiJSONIKSI());
+//Console.WriteLine(db_pankki.KaikkiJSONIKSI());
 // LOPPU
