@@ -9,8 +9,16 @@ namespace Pankki
     internal class Pankki
     {
         public Pankki()
-        {
-            Console.WriteLine("Luokka luotu -> PANKKI!");
+        {        
+            db_pankki.LisaaKayttaja( "1234", "janne", "niminen");
+            db_pankki.LisaaKayttaja("1534", "jonne", "niminen");
+            db_pankki.LisaaKayttaja("salasana", "Aleksi", "Opiskelija");
+            var henkilo = db_pankki.HaeKayttaja("Kokeilija");
+            db_pankki.HaeKaikkiKayttajat();
+            db_pankki.Siirto("1234", "Kokeilija", 22.5 );
+
+            if(henkilo != null)
+                Console.WriteLine(henkilo.etunimi + " toimii");
         }
     }
 }
