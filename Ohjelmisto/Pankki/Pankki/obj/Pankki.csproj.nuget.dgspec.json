@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akin\\Documents\\Ohjelmistokehitys-Projekti\\Ohjelmisto\\Pankki\\Pankki\\Pankki.csproj": {}
+    "C:\\Users\\Aleksi\\Documents\\Olio-Ohjelmointi Projekti\\Ohjelmistokehitys-Projekti\\Ohjelmisto\\Pankki\\Pankki\\Pankki.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akin\\Documents\\Ohjelmistokehitys-Projekti\\Ohjelmisto\\Pankki\\Pankki\\Pankki.csproj": {
+    "C:\\Users\\Aleksi\\Documents\\Olio-Ohjelmointi Projekti\\Ohjelmistokehitys-Projekti\\Ohjelmisto\\Pankki\\Pankki\\Pankki.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akin\\Documents\\Ohjelmistokehitys-Projekti\\Ohjelmisto\\Pankki\\Pankki\\Pankki.csproj",
+        "projectUniqueName": "C:\\Users\\Aleksi\\Documents\\Olio-Ohjelmointi Projekti\\Ohjelmistokehitys-Projekti\\Ohjelmisto\\Pankki\\Pankki\\Pankki.csproj",
         "projectName": "Pankki",
-        "projectPath": "C:\\Users\\akin\\Documents\\Ohjelmistokehitys-Projekti\\Ohjelmisto\\Pankki\\Pankki\\Pankki.csproj",
-        "packagesPath": "C:\\Users\\akin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akin\\Documents\\Ohjelmistokehitys-Projekti\\Ohjelmisto\\Pankki\\Pankki\\obj\\",
+        "projectPath": "C:\\Users\\Aleksi\\Documents\\Olio-Ohjelmointi Projekti\\Ohjelmistokehitys-Projekti\\Ohjelmisto\\Pankki\\Pankki\\Pankki.csproj",
+        "packagesPath": "C:\\Users\\Aleksi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aleksi\\Documents\\Olio-Ohjelmointi Projekti\\Ohjelmistokehitys-Projekti\\Ohjelmisto\\Pankki\\Pankki\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\akin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aleksi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
