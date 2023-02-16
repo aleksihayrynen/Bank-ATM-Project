@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Pankki;
-using Pankki.Muodot;
 
 
-
-var a = new Pankki.Pankki();
+db_pankki.tiedostoLuku();
+var run = new Pankki.Pankki();
+run = null;

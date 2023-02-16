@@ -38,7 +38,6 @@ namespace Pankki
                 if (raakaJson.Length > 5) // Jos sen pituus on yli 5, niin se ei todennäkösesti ole tyhjä
                 {
                     var varastoDB = JsonSerializer.Deserialize<Yhteinen>(raakaJson); // DeSerialisoidaan json -teksti takaisin objekti -muotoon
-                    Console.WriteLine(varastoDB);
                     if (varastoDB != null) //Jos se objekti ei ole tyhjä, niiiiin -->
                     {
                         Varasto = varastoDB; //Asetetaan tämän olion listan sisältö luetun olion sisäisen listan mukaiseksi.
@@ -93,7 +92,6 @@ namespace Pankki
 
                 if (Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == siirtajaKayttaja).saldo < raha)
                 {
-                    Console.WriteLine("rahaa ei riittänyt");
                     return false;
                 }
 
@@ -106,17 +104,57 @@ namespace Pankki
                 tapahtuma.tapahtumaAika = DateTime.Now;
 
                 // Magic code .....
-                
                 Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == VastaanOttajakayttaja).saldo += raha;
-                Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == siirtajaKayttaja).saldo -= raha;
-                Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == VastaanOttajakayttaja).siirtoHistoria.Add(tapahtuma); 
-                Console.WriteLine("oli täällä");
-                Tallenna();
+                Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == VastaanOttajakayttaja).siirtoHistoria.Add(tapahtuma);
 
+                tapahtuma.vastaanOtto = false;
+                Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == siirtajaKayttaja).saldo -= raha;
+                Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == siirtajaKayttaja).siirtoHistoria.Add(tapahtuma);
+                
+                Tallenna();
                 return true;
-        
         }
 
+        public static Boolean Nosto(double summa, string kayttaja)
+        {
+
+            if (Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == kayttaja).saldo < summa)
+            {
+                return false;
+            }
+
+            Tapahtuma tapahtuma = new Tapahtuma();
+
+            tapahtuma.summa = summa;
+            tapahtuma.viesti = "Nosto";
+            tapahtuma.vastaanOttaja = kayttaja;
+            tapahtuma.vastaanOtto = false;
+            tapahtuma.tapahtumaAika = DateTime.Now;
+
+            Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == kayttaja).saldo -= summa;
+            Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == kayttaja).siirtoHistoria.Add(tapahtuma);
+
+            Tallenna();
+            return true;
+
+        }
+        public static Boolean Talletus(double summa, string kayttaja)
+        {
+            Tapahtuma tapahtuma = new Tapahtuma();
+            
+            tapahtuma.summa = summa;
+            tapahtuma.viesti = "Talletus";
+            tapahtuma.vastaanOttaja = kayttaja;
+            tapahtuma.vastaanOtto = false;
+            tapahtuma.tapahtumaAika = DateTime.Now;
+
+            Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == kayttaja).saldo += summa;
+            Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == kayttaja).siirtoHistoria.Add(tapahtuma);
+
+            Tallenna();
+            return true;
+
+        }
 
     }
 }
