@@ -8,8 +8,8 @@ namespace Pankki.Muodot
 {
     internal class Yhteinen
     {
-        public List<Tili> tilit { get; set; }
         public List<Kayttaja> kayttajat { get; set; }
+        public List<Tili> tilit { get; set; }
 
         public Yhteinen()
         {

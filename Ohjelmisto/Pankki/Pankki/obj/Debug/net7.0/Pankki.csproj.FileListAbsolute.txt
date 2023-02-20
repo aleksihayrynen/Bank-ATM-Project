@@ -28,3 +28,5 @@ C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\O
 C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Debug\net7.0\Pankki.pdb
 C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\Pankki.genruntimeconfig.cache
 C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Debug\net7.0\ref\Pankki.dll
+C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Debug\net7.0\Pankki.exe
+C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Debug\net7.0\Pankki.dll

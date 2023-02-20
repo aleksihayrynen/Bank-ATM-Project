@@ -15,6 +15,11 @@ namespace Pankki
             Console.Write("Salasana: ");
             var pinkoodi = Console.ReadLine();
 
+            if (kayttaja == "admin" && pinkoodi == "salasana")
+            {
+                new JarjestelmaValvoja();
+                return;
+            }
 
             Kayttaja aktiivinen = db_pankki.HaeKayttaja(kayttaja);
 
@@ -38,8 +43,16 @@ namespace Pankki
                     switch (vaihtoehto)
                     {
                         case 1:
+                           
                             Console.Write("Saajantili: ");
                             var saaja = Console.ReadLine();
+                            if( db_pankki.HaeTili(saaja) == null)
+                            {
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Saaja ei ole olemassa!");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                break;
+                            }
 
                             Console.Write("Määrä: ");
                             var summa = double.Parse(Console.ReadLine());
@@ -48,11 +61,15 @@ namespace Pankki
                             var viesti = Console.ReadLine();
                             if (db_pankki.Siirto(saaja, aktiivinen.kayttaja, summa, viesti))
                             {
+                                Console.ForegroundColor = ConsoleColor.Green;
                                 Console.WriteLine("Siirto onnistui!");
+                                Console.ForegroundColor = ConsoleColor.White;
                             }
                             else
                             {
+                                Console.ForegroundColor = ConsoleColor.Red;
                                 Console.WriteLine("Siirto ei onnistunut!");
+                                Console.ForegroundColor = ConsoleColor.White;
                             }
                             break;
 
@@ -82,7 +99,6 @@ namespace Pankki
                             }
                             break;
                         default:
-                            
                             break;
                     }
                 }
