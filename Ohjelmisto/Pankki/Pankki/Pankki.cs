@@ -6,7 +6,7 @@ namespace Pankki
     {
         public Pankki()
         {
-
+            //db_pankki.LisaaKayttaja("1234","Suojattu", "Henkilöinen");
             Console.WriteLine("Tervetuloa pankkiin!!");
 
             Console.Write("Käyttäjä: ");
@@ -23,7 +23,7 @@ namespace Pankki
 
             Kayttaja aktiivinen = db_pankki.HaeKayttaja(kayttaja);
 
-            if (aktiivinen != null && aktiivinen.pin == pinkoodi)
+            if (aktiivinen != null && Salasanahallinta.TarkistaSalasana( pinkoodi, aktiivinen.pin))
             {
                 Console.Clear();
                 Console.WriteLine("Tervetuloa " + aktiivinen.etunimi + " " + aktiivinen.sukunimi + "!");

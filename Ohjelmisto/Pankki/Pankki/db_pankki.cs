@@ -14,7 +14,7 @@ namespace Pankki
             int randNum = new Random().Next(1000000);
             string numero = randNum.ToString("D6");
 
-            var uusiKayttaja = new Kayttaja(numero, pin, etunimi, sukunimi);
+            var uusiKayttaja = new Kayttaja(numero, Salasanahallinta.LuoSuolattuSalasana(pin), etunimi, sukunimi);
             Varasto.kayttajat.Add(uusiKayttaja);
             int randNum2 = new Random().Next(1000000);
             string numero2 = randNum2.ToString("D6");
