@@ -113,16 +113,3 @@ namespace Pankki
     }
 }
 
-/*
-db_pankki.PoistaKayttaja(kayttaja);
-db_pankki.LisaaKayttaja( "1234", "janne", "niminen");
-db_pankki.LisaaKayttaja("1534", "jonne", "niminen");
-db_pankki.LisaaKayttaja("salasana", "Aleksi", "Opiskelija");
-var henkilo = db_pankki.HaeKayttaja("Kokeilija");
-db_pankki.HaeKaikkiKayttajat();
-
-db_pankki.Siirto("1234", "Kokeilija", 22.5 );
-db_pankki.Talletus(22.3, aktiivinen.kayttaja);
-db_pankki.Nosto(22.3, aktiivinen.kayttaja);
-
-*/
