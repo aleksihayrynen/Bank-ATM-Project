@@ -17,6 +17,7 @@ namespace Pankki
 
             if (kayttaja == "admin" && pinkoodi == "salasana")
             {
+                Console.Clear();
                 new JarjestelmaValvoja();
                 return;
             }
@@ -76,13 +77,25 @@ namespace Pankki
                         case 2:
                             Console.Write("Talletuksen summa: ");
                             var talletusSumma = double.Parse(Console.ReadLine());
-                            db_pankki.Talletus(talletusSumma, aktiivinen.kayttaja);
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            if (db_pankki.Talletus(talletusSumma, aktiivinen.kayttaja))
+                                Console.WriteLine("Talletus onnistui!");
+                            Console.ForegroundColor = ConsoleColor.White;
                             break;
 
                         case 3:
                             Console.Write("Noston summa: ");
                             var nostoSumma = double.Parse(Console.ReadLine());
-                            db_pankki.Nosto(nostoSumma, aktiivinen.kayttaja);
+                            if (db_pankki.Nosto(nostoSumma, aktiivinen.kayttaja))
+                            {
+                                Console.ForegroundColor = ConsoleColor.Green;
+                                Console.WriteLine("Nosto onnistui!");
+                            }else
+                            {
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Ei voitu nostaa!");
+                            }
+                            Console.ForegroundColor = ConsoleColor.White;
                             break;
 
                         case 4:

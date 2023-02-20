@@ -55,9 +55,18 @@ namespace Pankki
         public static Boolean PoistaKayttaja(string kayttaja)
         {
             // sama tilille -> Varasto.tilit
-            Varasto.kayttajat.RemoveAll(obj => obj.kayttaja == kayttaja);
-            Varasto.tilit.RemoveAll(obj => obj.tiliOmistajakayttaja == kayttaja);
-            return true;
+            if (HaeKayttaja(kayttaja) == null)
+                return false;
+            try
+            {
+                Varasto.kayttajat.RemoveAll(obj => obj.kayttaja == kayttaja);
+                Varasto.tilit.RemoveAll(obj => obj.tiliOmistajakayttaja == kayttaja);
+                Tallenna();
+                return true;
+            }
+            catch {
+                return false;
+            }
         }
 
         public static Kayttaja HaeKayttaja(string kayttaja)
