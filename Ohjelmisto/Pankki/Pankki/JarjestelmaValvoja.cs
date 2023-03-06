@@ -12,10 +12,9 @@ namespace Pankki
     internal class JarjestelmaValvoja
     {
         public JarjestelmaValvoja() {
-            /// KOOODI TÄNNE
             Console.WriteLine("Tervetuloa Järjelmävalvoja systeemin scrum master hallitsija!" );
         
-            while (true) // ehkä korvattavissa nintendo switchillä
+            while (true)
             {
                 Console.Write
                 ("\n\n1: HAE KÄYTTÄJÄ\n2: POISTA KÄYTTÄJÄ\n3: HAE KAIKKI KÄYTTÄJÄTIEDOT\n4: LISÄÄ KÄYTTÄJÄ\n5: HAE TILI\n0: Poistu\n= ");
@@ -40,8 +39,7 @@ namespace Pankki
                         {
                             Console.WriteLine("Käyttäjää ei löytynyt");
                         }
-                        break;
-                    //ei toimi VIELÄ    
+                        break;  
                     case 2:
                         Console.WriteLine("Syötä käyttäjätunnus, jonka haluat poistaa");
                         var poistettavaKayttaja = Console.ReadLine();

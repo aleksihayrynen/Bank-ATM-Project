@@ -6,7 +6,6 @@ namespace Pankki
     {
         public Pankki()
         {
-            //db_pankki.LisaaKayttaja("1234","Suojattu", "Henkilöinen");
             Console.WriteLine("Tervetuloa pankkiin!!");
 
             Console.Write("Käyttäjä: ");
