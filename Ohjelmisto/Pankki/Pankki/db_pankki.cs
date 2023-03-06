@@ -33,9 +33,10 @@ namespace Pankki
             File.WriteAllText(tiedostonNimi, content);
             return content;
         }
-
+        static bool re = true;
         public static void tiedostoLuku()
         {
+
             try
             {
                 var raakaJson = File.ReadAllText(tiedostonNimi);
@@ -51,7 +52,12 @@ namespace Pankki
             }
             catch
             {
-                Console.WriteLine("Epäonnistu vakavasti! Liian!");
+                if (re) { 
+                    Tallenna();
+                    tiedostoLuku();
+                    re = false;
+                }else
+                    Environment.Exit(0);
             }
 
         }
