@@ -1,0 +1,2 @@
+C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\publish\Pankki.pdb
+C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\publish\Pankki.exe

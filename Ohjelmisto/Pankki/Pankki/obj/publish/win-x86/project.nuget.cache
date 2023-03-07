@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tjNQJmqWefH6xai/ikGFs5eHrylZiPtemkwFGqoWy8v6yM/NSPMCK+VkLy3ljbYEF4C9NJfjwCUU8zqatZN8UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akin\\Documents\\Ohjelmistokehitys-Projekti\\Ohjelmisto\\Pankki\\Pankki\\Pankki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.1\\microsoft.netcore.app.runtime.win-x86.7.0.1.nupkg.sha512",
+    "C:\\Users\\akin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.1.nupkg.sha512",
+    "C:\\Users\\akin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.1\\microsoft.aspnetcore.app.runtime.win-x86.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
