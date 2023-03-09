@@ -55,6 +55,13 @@ namespace Pankki
 
                     case 3:
                         var a = db_pankki.HaeKaikkiKayttajat();
+
+                        if (!a.Any())
+                        {
+                            Console.WriteLine("Ei ole yhtään käyttäjiä olemassa!");
+                            return;
+                        }
+                           
                         foreach (var kayttaja in a)
                         {
                             Console.WriteLine(kayttaja.kayttaja + " | " + kayttaja.etunimi + " | " + kayttaja.sukunimi + " | " + kayttaja.pin + " | " + kayttaja.luontiPaiva);
@@ -67,14 +74,14 @@ namespace Pankki
                         var sukunimi = Console.ReadLine();
                         Console.WriteLine("Syötä 4-numeroinen pin-koodi");
                         var salasana = Console.ReadLine();
-                        if (salasana.Length > 5)
-                            do
-                            {
-                                Console.WriteLine("Virheellinen salasana(max 4 numeroa)\nSyötä uudestaan: ");
-                                salasana = Console.ReadLine();
-                            } while (salasana.Length > 5);
+                        while (salasana.Length != 4)   
+                        {
+                            Console.WriteLine("Virheellinen salasana(4 numeroa)\nSyötä uudestaan: ");
+                            salasana = Console.ReadLine();
+                        }
 
                         db_pankki.LisaaKayttaja(salasana, etunimi, sukunimi);
+                        Console.WriteLine("Käyttäjä luotu");
                         break;
                     case 5:
                         Console.WriteLine("Syötä tilinumero");
