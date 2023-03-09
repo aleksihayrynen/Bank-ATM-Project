@@ -1,198 +1,198 @@
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Pankki.exe
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Pankki.deps.json
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Pankki.runtimeconfig.json
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Pankki.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Pankki.pdb
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Microsoft.CSharp.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Microsoft.VisualBasic.Core.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Microsoft.VisualBasic.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Microsoft.Win32.Primitives.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Microsoft.Win32.Registry.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.AppContext.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Buffers.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Collections.Concurrent.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Collections.Immutable.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Collections.NonGeneric.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Collections.Specialized.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Collections.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ComponentModel.Annotations.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ComponentModel.DataAnnotations.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ComponentModel.EventBasedAsync.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ComponentModel.Primitives.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ComponentModel.TypeConverter.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ComponentModel.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Configuration.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Console.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Core.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Data.Common.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Data.DataSetExtensions.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Data.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.Contracts.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.Debug.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.DiagnosticSource.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.FileVersionInfo.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.Process.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.StackTrace.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.Tools.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.TraceSource.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.Tracing.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Drawing.Primitives.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Drawing.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Dynamic.Runtime.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Formats.Asn1.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Formats.Tar.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Globalization.Calendars.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Globalization.Extensions.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Globalization.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.Compression.Brotli.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.Compression.FileSystem.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.Compression.ZipFile.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.Compression.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.FileSystem.AccessControl.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.FileSystem.DriveInfo.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.FileSystem.Primitives.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.FileSystem.Watcher.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.FileSystem.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.IsolatedStorage.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.MemoryMappedFiles.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.Pipes.AccessControl.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.Pipes.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.UnmanagedMemoryStream.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Linq.Expressions.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Linq.Parallel.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Linq.Queryable.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Linq.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Memory.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Http.Json.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Http.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.HttpListener.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Mail.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.NameResolution.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.NetworkInformation.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Ping.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Primitives.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Quic.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Requests.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Security.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.ServicePoint.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Sockets.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.WebClient.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.WebHeaderCollection.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.WebProxy.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.WebSockets.Client.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.WebSockets.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Numerics.Vectors.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Numerics.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ObjectModel.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Private.CoreLib.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Private.DataContractSerialization.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Private.Uri.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Private.Xml.Linq.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Private.Xml.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.DispatchProxy.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.Emit.ILGeneration.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.Emit.Lightweight.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.Emit.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.Extensions.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.Metadata.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.Primitives.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.TypeExtensions.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Resources.Reader.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Resources.ResourceManager.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Resources.Writer.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Extensions.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Handles.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.InteropServices.JavaScript.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.InteropServices.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Intrinsics.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Loader.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Numerics.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Serialization.Formatters.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Serialization.Json.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Serialization.Primitives.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Serialization.Xml.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Serialization.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.AccessControl.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Claims.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.Algorithms.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.Cng.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.Csp.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.Encoding.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.OpenSsl.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.Primitives.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.X509Certificates.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Principal.Windows.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Principal.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.SecureString.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ServiceModel.Web.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ServiceProcess.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Text.Encoding.CodePages.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Text.Encoding.Extensions.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Text.Encoding.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Text.Encodings.Web.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Text.Json.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Text.RegularExpressions.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Channels.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Overlapped.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Tasks.Dataflow.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Tasks.Extensions.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Tasks.Parallel.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Tasks.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Thread.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.ThreadPool.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Timer.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Transactions.Local.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Transactions.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ValueTuple.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Web.HttpUtility.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Web.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Windows.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.Linq.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.ReaderWriter.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.Serialization.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.XDocument.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.XPath.XDocument.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.XPath.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.XmlDocument.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.XmlSerializer.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\WindowsBase.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\mscorlib.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\netstandard.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.Compression.Native.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\clretwrc.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\clrgc.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\clrjit.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\coreclr.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\createdump.exe
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\hostfxr.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\hostpolicy.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\mscordaccore.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\mscordaccore_x86_x86_7.0.122.56804.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\mscordbi.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\mscorrc.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\msquic.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.csproj.AssemblyReference.cache
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.AssemblyInfoInputs.cache
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.AssemblyInfo.cs
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.csproj.CoreCompileInputs.cache
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.csproj.CopyComplete
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\refint\Pankki.dll
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.pdb
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.genruntimeconfig.cache
-C:\Users\akin\Documents\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\ref\Pankki.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Pankki.exe
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Pankki.deps.json
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Pankki.runtimeconfig.json
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Pankki.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Pankki.pdb
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Microsoft.CSharp.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Microsoft.VisualBasic.Core.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Microsoft.VisualBasic.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Microsoft.Win32.Primitives.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Microsoft.Win32.Registry.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.AppContext.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Buffers.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Collections.Concurrent.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Collections.Immutable.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Collections.NonGeneric.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Collections.Specialized.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Collections.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ComponentModel.Annotations.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ComponentModel.DataAnnotations.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ComponentModel.Primitives.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ComponentModel.TypeConverter.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ComponentModel.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Configuration.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Console.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Core.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Data.Common.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Data.DataSetExtensions.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Data.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.Contracts.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.Debug.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.Process.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.StackTrace.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.Tools.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.TraceSource.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Diagnostics.Tracing.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Drawing.Primitives.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Drawing.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Dynamic.Runtime.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Formats.Asn1.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Formats.Tar.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Globalization.Calendars.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Globalization.Extensions.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Globalization.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.Compression.Brotli.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.Compression.FileSystem.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.Compression.ZipFile.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.Compression.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.FileSystem.AccessControl.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.FileSystem.Primitives.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.FileSystem.Watcher.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.FileSystem.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.IsolatedStorage.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.MemoryMappedFiles.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.Pipes.AccessControl.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.Pipes.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Linq.Expressions.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Linq.Parallel.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Linq.Queryable.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Linq.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Memory.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Http.Json.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Http.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.HttpListener.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Mail.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.NameResolution.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.NetworkInformation.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Ping.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Primitives.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Quic.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Requests.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Security.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.ServicePoint.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.Sockets.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.WebClient.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.WebHeaderCollection.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.WebProxy.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.WebSockets.Client.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.WebSockets.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Net.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Numerics.Vectors.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Numerics.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ObjectModel.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Private.CoreLib.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Private.DataContractSerialization.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Private.Uri.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Private.Xml.Linq.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Private.Xml.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.DispatchProxy.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.Emit.Lightweight.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.Emit.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.Extensions.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.Metadata.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.Primitives.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.TypeExtensions.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Reflection.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Resources.Reader.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Resources.ResourceManager.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Resources.Writer.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Extensions.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Handles.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.InteropServices.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Intrinsics.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Loader.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Numerics.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Serialization.Formatters.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Serialization.Json.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Serialization.Primitives.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Serialization.Xml.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.Serialization.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Runtime.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.AccessControl.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Claims.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.Cng.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.Csp.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.Encoding.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.Primitives.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Cryptography.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Principal.Windows.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.Principal.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.SecureString.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Security.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ServiceModel.Web.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ServiceProcess.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Text.Encoding.CodePages.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Text.Encoding.Extensions.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Text.Encoding.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Text.Encodings.Web.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Text.Json.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Text.RegularExpressions.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Channels.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Overlapped.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Tasks.Dataflow.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Tasks.Extensions.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Tasks.Parallel.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Tasks.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Thread.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.ThreadPool.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.Timer.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Threading.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Transactions.Local.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Transactions.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.ValueTuple.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Web.HttpUtility.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Web.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Windows.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.Linq.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.ReaderWriter.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.Serialization.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.XDocument.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.XPath.XDocument.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.XPath.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.XmlDocument.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.XmlSerializer.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.Xml.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\WindowsBase.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\mscorlib.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\netstandard.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\System.IO.Compression.Native.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\clretwrc.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\clrgc.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\clrjit.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\coreclr.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\createdump.exe
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\hostfxr.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\hostpolicy.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\mscordaccore.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\mscordaccore_x86_x86_7.0.323.6910.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\mscordbi.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\mscorrc.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\bin\Release\net7.0\win-x86\msquic.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.csproj.AssemblyReference.cache
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.AssemblyInfoInputs.cache
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.AssemblyInfo.cs
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.csproj.CoreCompileInputs.cache
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.csproj.CopyComplete
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\refint\Pankki.dll
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.pdb
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\Pankki.genruntimeconfig.cache
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\obj\Release\net7.0\win-x86\ref\Pankki.dll

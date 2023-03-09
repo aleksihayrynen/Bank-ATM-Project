@@ -1,1 +1,1 @@
-{"kayttajat":[],"tilit":[]}
+{"kayttajat":[{"kayttaja":"282379","pin":"sPgysw52oknIlD/k/qCe/wYNgMiJXkBIo/jcgkHY2lE=","etunimi":"aleksi","sukunimi":"h\u00E4yrynen","luontiPaiva":"2023-03-09T12:11:59.0726101+02:00"},{"kayttaja":"216167","pin":"LuyCt7ZBxRiSN5WH4yyltdN\u002Bp\u002Bv37Agf4dk\u002BqYLRTX8=","etunimi":"ilkka","sukunimi":"kauppinen","luontiPaiva":"2023-03-09T12:12:24.6049669+02:00"}],"tilit":[{"tiliTunnus":"FI506004","tiliOmistajakayttaja":"282379","saldo":0,"siirtoHistoria":[]},{"tiliTunnus":"FI744999","tiliOmistajakayttaja":"216167","saldo":0,"siirtoHistoria":[]}]}

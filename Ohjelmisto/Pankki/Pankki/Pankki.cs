@@ -27,7 +27,7 @@ namespace Pankki
                 Kayttaja aktiivinen = db_pankki.HaeKayttaja(kayttaja);
 
                 if (aktiivinen != null && Salasanahallinta.TarkistaSalasana(pinkoodi, aktiivinen.pin))
-                {
+                    {
                     Console.Clear();
                     Console.WriteLine("Tervetuloa " + aktiivinen.etunimi + " " + aktiivinen.sukunimi + "!");
                     while (true)
@@ -110,7 +110,7 @@ namespace Pankki
                                 {
                                     Console.WriteLine("-------------------");
                                     Console.WriteLine(
-                                        "Summa: " + historia.summa + "\nViesti: " +
+                                        "Summa: " +(historia.vastaanOtto?"+":"-" ) + + historia.summa + "\nViesti: " +
                                         historia.viesti + "\nAika: " +
                                         historia.tapahtumaAika
                                         );

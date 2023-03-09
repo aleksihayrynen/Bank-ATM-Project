@@ -1,0 +1,2 @@
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\publish\Pankki.pdb
+C:\Users\Aleksi\Documents\Olio-Ohjelmointi Projekti\Ohjelmistokehitys-Projekti\Ohjelmisto\Pankki\Pankki\publish\Pankki.exe

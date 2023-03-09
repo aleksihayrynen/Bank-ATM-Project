@@ -74,7 +74,7 @@ namespace Pankki
                                 salasana = Console.ReadLine();
                             } while (salasana.Length > 5);
 
-                        db_pankki.LisaaKayttaja(Salasanahallinta.LuoSuolattuSalasana(salasana), etunimi, sukunimi);
+                        db_pankki.LisaaKayttaja(salasana, etunimi, sukunimi);
                         break;
                     case 5:
                         Console.WriteLine("Syötä tilinumero");

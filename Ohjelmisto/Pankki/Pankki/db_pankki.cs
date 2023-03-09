@@ -175,7 +175,7 @@ namespace Pankki
                 tapahtuma.summa = summa;
                 tapahtuma.viesti = "Talletus";
                 tapahtuma.vastaanOttaja = kayttaja;
-                tapahtuma.vastaanOtto = false;
+                tapahtuma.vastaanOtto = true;
                 tapahtuma.tapahtumaAika = DateTime.Now;
 
                 Varasto.tilit.Find(obj => obj.tiliOmistajakayttaja == kayttaja).saldo += summa;
